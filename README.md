@@ -1,1 +1,1 @@
-This is the read me file for simple project
+This is the read me file for simple project.And also use all.
